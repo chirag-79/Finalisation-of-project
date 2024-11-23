@@ -1,0 +1,15 @@
+chira
+faridabad
+S
+9000
+-----
+deepak
+delhi
+S
+50000
+-----
+saroj rani
+palwal
+S
+4500
+-----
